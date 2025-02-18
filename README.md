@@ -59,7 +59,7 @@ $$
 
 where $\theta(\xi)$ is a dimensionless function of the radial coordinate ξξ and nn is the polytropic index.
 
-## NUmerical SOlver 
+## Numerical SOlver 
 
 The numerical solver implemented in this repository utilizes [insert numerical method here, e.g., Runge-Kutta method] to approximate the solution of the Lane-Emden equation. The solver is designed to handle various polytropic indices and initial conditions.
 
