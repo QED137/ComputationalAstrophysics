@@ -8,6 +8,9 @@ The codes provided here are a product of past coursework in Computational Astrop
 ## Acknowledgements
 This repository stands as a testament to the interdisciplinary nature of computational astrophysics, where the realms of astrophysics, physics, applied mathematics, and computer science converge. The codes presented here have been refined, it was part of my master course's coursework Computational Astrophysics at University of Tubingen 
 
+# Master Thesis Work
+This repos also has part of my master thesis work. Teukolosky Equation is essential in simulating Hakwing Radiation.
+
 Feel free to explore, experiment, and contribute to the ongoing exploration of fundamental astrophysical phenomena. Your engagement is key to advancing our understanding of the mesmerizing processes that govern the formation of stars.
 
 Happy coding and stargazing!
